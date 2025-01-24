@@ -1,1 +1,1 @@
-many SSIS packages for mok interview
+many SSIS packages for mock interview
